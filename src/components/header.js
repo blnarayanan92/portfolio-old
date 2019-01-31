@@ -39,7 +39,7 @@ const Header = ({ siteTitle }) => (
         </ListItem>
         <ListItem classNames="fs-13 fw-400 c-grey  pr-10 ">
           <a
-            href="mailto=blnarayanan92@gmail.com"
+            href="mailto:blnarayanan92@gmail.com"
             className="c-grey td-underline"
           >
             Email
