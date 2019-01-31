@@ -46,18 +46,21 @@ const Header = ({ siteTitle }) => (
           </a>
         </ListItem>
         <ListItem classNames="fs-13 fw-400 c-grey  pr-10 ">
-          <a href="https://t.me/blnarayanan" className="c-grey td-underline">
+          <a
+            href="https://github.com/blnarayanan92"
+            className="c-grey td-underline"
+          >
             Github
           </a>
         </ListItem>
       </List>
-      <List classNames="headerLinks m0 flex ml-auto">
+      {/* <List classNames="headerLinks m0 flex ml-auto">
         <listItem classNames="fs-15 fw-400 c-grey pr-10 pl-10">
           <a href="/" className="c-black td-none">
             Resume
           </a>
         </listItem>
-      </List>
+      </List> */}
     </div>
   </div>
 )
