@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Full stack designer`,
+    description: `Portfolio website of Lakshmi Narayanan Baskaran, a product designer & front end developer. Built with love using ReactJS and GatsbyJS`,
+    author: `Lakshmi Narayanan`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
