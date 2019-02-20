@@ -6,7 +6,9 @@ import Image from '../components/image'
 const Hero = () => (
   <div className="heroContainer">
     <h1>Lakshmi Narayanan</h1>
-    <h4>Product Designer @Cleartrip</h4>
+    <h4>
+      Product Designer @<span>Cleartrip</span>
+    </h4>
     {/* <p>Building something Great here.</p> */}
     {/* <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
